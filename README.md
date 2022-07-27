@@ -21,5 +21,8 @@
 
 ### MacOS
 
-## ⚠️ License
+## ⚠️ Next Steps
+* Remove Force Unwrapping
+* Add Unit Test
+* Pop Navigation after save new connection
 
