@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Swift" />
 </p>
 
+## Download Mac Client
+
+<a href="https://github.com/faganello60/Swift-MQTT/releases/tag/1.0.0">MacOS Client</a>
+
 ## 📝 Versions
 
 ### iOS
