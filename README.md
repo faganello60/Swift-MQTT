@@ -16,10 +16,24 @@
 ## 📝 Versions
 
 ### iOS
+<p float="left">
+<img src="https://raw.githubusercontent.com/faganello60/Swift-MQTT/main/Assets/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-07-27%20at%2018.50.00.png" alt="Swift" style="width: 20%; height: 20%" />
+<img src="https://raw.githubusercontent.com/faganello60/Swift-MQTT/main/Assets/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-07-27%20at%2018.50.16.png" alt="Swift" style="width: 20%; height: 20%" />
+</p>
 
 ### iPadOS
 
+<p float="left">
+<img src="https://raw.githubusercontent.com/faganello60/Swift-MQTT/main/Assets/Screen%20Shot%202022-07-27%20at%2018.54.38.png" alt="Swift" style="width: 30%; height: 30%" />
+<img src="https://raw.githubusercontent.com/faganello60/Swift-MQTT/main/Assets/Screen%20Shot%202022-07-27%20at%2018.54.46.png" alt="Swift" style="width: 30%; height: 30%" />
+</p>
+
 ### MacOS
+<p float="left">
+<img src="https://raw.githubusercontent.com/faganello60/Swift-MQTT/main/Assets/Screen%20Shot%202022-07-27%20at%2018.48.45.png" alt="Swift" style="width: 30%; height: 30%" />
+<img src="https://raw.githubusercontent.com/faganello60/Swift-MQTT/main/Assets/Screen%20Shot%202022-07-27%20at%2018.48.55.png" alt="Swift" style="width: 30%; height: 30%" />
+</p>
+
 
 ## ⚠️ Next Steps
 * Remove Force Unwrapping
